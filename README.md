@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-Latest-green)
 ![Manager](https://img.shields.io/badge/Dependency-uv-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This repository serves as a collection of mini-projects designed to master **LangChain** concepts, ranging from basic prompts to advanced chains and agents. Each module focuses on specific real-world applications and "Clean Code" practices.
 
@@ -66,3 +67,6 @@ The code within this repository is structured for **educational clarity**:
 - **Separation of Concerns**: Config, Core, Services are isolated.
 - **Modern Python**: Uses Pydantic, Type Hinting, and LCEL.
 - **Production Ready**: Concepts can be adapted for real-world deployment.
+
+## 📄 License
+This project is open-source and available under the terms of the [MIT License](LICENSE).
