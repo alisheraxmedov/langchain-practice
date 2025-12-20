@@ -12,6 +12,7 @@ This repository serves as a collection of mini-projects designed to master **Lan
 | Project | Description | Documentation |
 |---------|-------------|---------------|
 | **Smart Assistant** | High-level text analysis tool (Email, Tech Explainer, Summary) using Gemini Pro. | [Read Docs](assistant/README.md) |
+| **Conversation AI** | Stateful agent with memory and tools (Order Search, User Info) powered by ReAct logic. | [Read Docs](conversationai/README.md) |
 
 ---
 
